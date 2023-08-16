@@ -6,5 +6,3 @@ from apps.job.models import Vacancy, Resume, Company
 admin.site.register(Company)
 admin.site.register(Resume)
 admin.site.register(Vacancy)
-
-

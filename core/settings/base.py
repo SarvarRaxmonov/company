@@ -45,10 +45,7 @@ DJANGO_APPS = [
     "django.contrib.staticfiles",
 ]
 
-CUSTOM_APPS = [
-    "apps.common",
-    "apps.job"
-]
+CUSTOM_APPS = ["apps.common", "apps.job"]
 
 THIRD_PARTY_APPS = [
     "rest_framework",
